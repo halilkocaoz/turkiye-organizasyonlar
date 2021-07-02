@@ -5,7 +5,7 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
 #### A.
 * [arteffect](https://github.com/arteffect) <br />
   1997 yılında, Eskişehir'de kurulan bir demoscene grubu.
-* [Atölye15](https://github.com/arteffect) <br />
+* [Atölye15](https://github.com/atolye15) <br />
   Farklı ölçekteki şirketlere ve topluluklara, yazılım çözümleri sunan şirket.
 #### B.
 #### C.
@@ -30,7 +30,7 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
 #### L.
 #### M.
 * [MonoFor, Inc.](https://github.com/monofor) <br />
-  Kurumsal çözümler sunan şirket.
+  Yazılım çözümleri sunan şirket.
 #### N.
 #### O.
 #### P.
