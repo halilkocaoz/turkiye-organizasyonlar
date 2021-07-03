@@ -42,6 +42,8 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
 #### T.
 #### U.
 #### V.
+* [vb YAZILIM](https://github.com/vbyazilim) <br />
+  Yazılım geliştirme, eğitim ve danışmanlık hizmeti sunan şirket.
 #### W.
 #### X.
 #### Y.
