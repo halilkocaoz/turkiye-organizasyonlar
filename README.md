@@ -7,6 +7,8 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
   1997 yılında, Eskişehir'de kurulan bir demoscene grubu.
 * [Atölye15](https://github.com/atolye15) <br />
   Farklı ölçekteki şirketlere ve topluluklara, yazılım çözümleri sunan şirket.
+* [Academic.io](https://github.com/academic) <br />
+  Akademide çalışan insanlar, organizasyonlar ve ülkeler için açık kaynak kodlu uygulamalar, servisler sağlar.
 #### B.
 #### C.
 #### D.
@@ -31,6 +33,8 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
 #### M.
 * [MonoFor, Inc.](https://github.com/monofor) <br />
   Yazılım çözümleri sunan şirket.
+* [MonoPayments](https://github.com/monopayments) <br />
+  İhtiyaç duyulan fintech çözümlerinin hepsini bir arada sağlayan şirket.
 #### N.
 #### O.
 #### P.
