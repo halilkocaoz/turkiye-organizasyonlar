@@ -9,6 +9,8 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
   Farklı ölçekteki şirketlere ve topluluklara, yazılım çözümleri sunan şirket.
 * [Academic.io](https://github.com/academic) <br />
   Akademide çalışan insanlar, organizasyonlar ve ülkeler için açık kaynak kodlu uygulamalar, servisler sağlar.
+* [açık-kaynak.org](https://github.com/acikkaynak) <br />
+  Açık kaynak farkındalığı oluşturan, topluluk faaliyetleri yürüten, proje geliştiren ve yardımlaşmayı teşvik eden organizasyon.
 #### B.
 #### C.
 #### D.
