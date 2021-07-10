@@ -46,6 +46,8 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
 #### R.
 #### S.
 #### T.
+* [Trendyol tech](https://github.com/trendyol) <br />
+  Trendyol teknoloji takımının, geliştiriciler ve Trendyol için açık kaynak kodlu projelerini sergilediği organizasyon.
 #### U.
 #### V.
 * [vb YAZILIM](https://github.com/vbyazilim) <br />
