@@ -26,6 +26,8 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
   Peer to peer(uçtan uca) bir sosyal medya projesi.
 #### G.
 #### H.
+* [Hepsiburada](https://github.com/hepsiburada) <br />
+  Hepsiburada'nın teknoloji takımına ait organizasyon, Hepsiburada bünyesinde kullanılan açık kaynak kodlu projeler sergileniyor.
 #### I.
 #### J.
 #### K.
