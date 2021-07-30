@@ -11,7 +11,7 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
   Akademide çalışan insanlar, organizasyonlar ve ülkeler için açık kaynak kodlu uygulamalar, servisler sağlar.
 * [açık-kaynak.org](https://github.com/acikkaynak) <br />
   Açık kaynak farkındalığı oluşturan, topluluk faaliyetleri yürüten, proje geliştiren ve yardımlaşmayı teşvik eden organizasyon.
-* [ABP](https://github.com/acikkaynak) <br />
+* [ABP](https://github.com/abpframework) <br />
   ASP.NET için Volosoft şirketi tarafından açık kaynak kodlu geliştirilen web uygulama geliştirme çerçevesi.
 #### B.
 #### C.
