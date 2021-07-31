@@ -56,7 +56,7 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
 #### V.
 * [vb YAZILIM](https://github.com/vbyazilim) <br />
   Yazılım geliştirme, eğitim ve danışmanlık hizmeti sunan şirket.
-* [Volosoft](https://github.com/vbyazilim) <br />
+* [Volosoft](https://github.com/volosoft) <br />
   Açık kaynak kodlu yazılım geliştirme araçları sunan şirket.
 #### W.
 #### X.
