@@ -41,6 +41,8 @@ Türkiye tabanlı GitHub ve GitLab organizasyonları
   Yazılım çözümleri sunan şirket.
 * [MonoPayments](https://github.com/monopayments) <br />
   İhtiyaç duyulan fintech çözümlerinin hepsini bir arada sağlayan şirket.
+* [Masomo Limited](https://github.com/masomo) <br />
+  Türkiye ve UK tabanlı bir mobil oyun şirketi.
 #### N.
 #### O.
 #### P.
