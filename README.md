@@ -1,4 +1,4 @@
-# turk-organizasyonlar
+# turkiye-organizasyonlar
 Türkiye tabanlı GitHub ve GitLab organizasyonları
 
 
