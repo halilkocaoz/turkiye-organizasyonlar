@@ -1,5 +1,5 @@
 # turkiye-organizasyonlar
-Türkiye tabanlı GitHub ve GitLab organizasyonları
+Türkiye tabanlı GitHub organizasyonları
 
 
 #### A.
